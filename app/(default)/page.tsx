@@ -13,6 +13,7 @@ import Testimonials from '@/components/testimonials'
 import Blocks from "@/components/blocks"
 import Cheatsheets from "@/components/cheatsheets"
 import GCSEPredicted from "@/components/gcsePredicted"
+import PythonRes from "@/components/pythonresource"
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Blocks/>
       <Cheatsheets/>
       <GCSEPredicted/>
+      <PythonRes/>
       <Zigzag/>
     </>
   )
