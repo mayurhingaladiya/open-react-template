@@ -30,7 +30,7 @@ export default function Hero() {
               I know how hard it can be with teachers not teaching properly, from experience, hence why I have started this to help as many computer science students as I can. Drop a follow to help me out! Lets get the tiktok to 10k and youtube to 1k! 🎯</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 rounded-full hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.tiktok.com/@gcse_computerscience" target='_blank'>Watch some Tutorials</a>
+                <a className="btn text-white bg-purple-600 rounded-full hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.buymeacoffee.com/gcsecomputersciencetutor" target='_blank'>Buy me a coffee</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
                 <a className="btn text-white bg-blue-700 rounded-full hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="/A-Level-Resources">A Level Resources</a>
@@ -70,7 +70,7 @@ export default function Hero() {
           <div className='flex flex-col text-blue-700'>
             <a href="/cheatsheets/OCR GCSE Computer Science Revision Timetable.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Two week timetable to get grade 9</a>
           </div>
-          
+
 
         </div>
 

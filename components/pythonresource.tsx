@@ -25,8 +25,8 @@ function pythonresource() {
 
         </div>
         <div className='w-fit mx-auto'>
-          <Link href="https://www.youtube.com/@TheGCSEComputerScienceTutor" className="btn-sm rounded-full text-white bg-blue-700 mb-10 hover:bg-purple-700 ">
-            Drop a follow!
+          <Link href="https://www.buymeacoffee.com/gcsecomputersciencetutor" className="btn-sm rounded-full text-white bg-blue-700 mb-10 hover:bg-purple-700 ">
+            Buy me a coffee
           </Link>
 
         </div>
