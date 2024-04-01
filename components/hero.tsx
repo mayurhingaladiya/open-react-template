@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4 text-purple-600" data-aos="fade-up">The GCSE Computer Science Tutor</h1>
             <p className="text-xl text-blue-800 mb-8" data-aos="fade-up" data-aos-delay="200">I am a Computer Science and Mathematics Student at University.
-              I know how hard it can be with teachers not teaching properly, from experience, hence why I have started this to help as many computer science students as I can. Drop a follow to help me out! Lets get the tiktok to 10k 🎯</p>
+              I know how hard it can be with teachers not teaching properly, from experience, hence why I have started this to help as many computer science students as I can. Drop a follow to help me out! Lets get the tiktok to 10k and youtube to 1k! 🎯</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-white bg-purple-600 rounded-full hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.tiktok.com/@gcse_computerscience" target='_blank'>Watch some Tutorials</a>
@@ -64,9 +64,11 @@ export default function Hero() {
 
           </ul>
           <div className=''> 
-          <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/BrSea_7feao" title="60 Days until GCSEs 2024: How to go from Grade 5 to Grade 9 in Computer Science" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-          </iframe>
+          <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/odbao6aLbP0" title="The ULTIMATE Easter revision plan to go from GRADE 3 to GRADE 9 in GCSE Computer Science" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
+          </div>
+          <div className='flex flex-col text-blue-700'>
+            <a href="/cheatsheets/OCR GCSE Computer Science Revision Timetable.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Two week timetable to get grade 9</a>
           </div>
           
 

@@ -7,7 +7,7 @@ export default function gcsePapers() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20 ">
             <h2 className="h2 mb-4">GCSE Past Papers and Answers</h2>
-            <p className="text-xl text-gray-800">We are currently in the process of making some predicted mock papers for the new spec for both OCR and AQA. It should be available within the end of next month.</p>
+            <p className="text-xl text-gray-800">Lets get the tiktok to 10k and youtube to 1k.</p>
           </div>
 
           {/* Items */}
