@@ -14,6 +14,8 @@ function pythonresource() {
           </div>
           <div className='flex flex-col text-blue-700'>
             <a href="/PythonResource/PythonChallenges.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Python Booklet - Questions ranging from easy to difficult</a>
+            <a href="/PythonResource/PythonChallengesAnswers.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Python Booklet - Answers</a>
+
           </div>
           <div className=''>
           <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/QAB2IZro2v8" title="ALL the PYTHON you need for GCSE COMPUTER SCIENCE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>

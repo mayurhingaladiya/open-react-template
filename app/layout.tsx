@@ -30,6 +30,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8253882393151973"
+      ></script></head>
       <body className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased bg-gray-100 text-gray-900 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
           <Header />
@@ -40,4 +42,3 @@ export default function RootLayout({
     </html>
   )
 }
- 
