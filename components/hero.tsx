@@ -63,11 +63,8 @@ export default function Hero() {
             </li>
 
           </ul>
-          <div className=''> 
-          <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/odbao6aLbP0" title="The ULTIMATE Easter revision plan to go from GRADE 3 to GRADE 9 in GCSE Computer Science" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-
-          </div>
-          <div className='flex flex-col text-blue-700'>
+          <div className='flex flex-col text-blue-700 mt-10'>
+            <a href="https://www.youtube.com/watch?v=odbao6aLbP0" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">The ULTIMATE 2 WEEK revision plan to go from GRADE 3 to GRADE 9 in GCSE Computer Science</a>
             <a href="/cheatsheets/OCR GCSE Computer Science Revision Timetable.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Two week timetable to get grade 9</a>
           </div>
 

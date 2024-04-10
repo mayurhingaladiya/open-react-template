@@ -18,12 +18,12 @@ function gcsePredicted() {
             <a href="/PredictedPapers/OCR Predicted Paper 2 2024.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Predicted Paper 2 - OCR SPEC</a>
             <a href="/PredictedPapers/OCR Predicted Paper 2 2024Markscheme.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Predicted Paper 2 Answers - OCR SPEC</a>
 
+            <a href="https://www.youtube.com/watch?v=9lH-cz4yhkA" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">2024 OCR GCSE Computer Science Predicted Paper 1 Walkthrough</a>
+            <a href="https://www.youtube.com/watch?v=gN0yZe7qdsU" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">2024 OCR GCSE Computer Science Predicted Paper 2 Walkthrough</a>
+
           </div>
 
-          <div className=''> 
-          <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/9lH-cz4yhkA" title="2024 OCR GCSE Computer Science Predicted Paper 1 Walkthrough" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-          <iframe className='mx-auto mt-10 h-96 w-[350px] md:w-[550px]' src="https://www.youtube.com/embed/gN0yZe7qdsU" title="2024 OCR GCSE Computer Science Predicted Paper 2 Walkthrough" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-          </div>
+         
 
 
 
