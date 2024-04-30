@@ -1,5 +1,7 @@
+'use client'
 import Link from 'next/link'
 import React from 'react'
+import Faq from '../components/faqsection'
 
 function gcsePredicted() {
   return (
@@ -22,7 +24,8 @@ function gcsePredicted() {
             <a href="https://www.youtube.com/watch?v=gN0yZe7qdsU" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">2024 OCR GCSE Computer Science Predicted Paper 2 Walkthrough</a>
 
           </div>
-
+          
+          <Faq/>
          
 
 
