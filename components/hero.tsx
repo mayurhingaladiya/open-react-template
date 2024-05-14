@@ -66,6 +66,8 @@ export default function Hero() {
           <div className='flex flex-col text-blue-700 mt-10'>
             <a href="https://www.youtube.com/watch?v=odbao6aLbP0" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">The ULTIMATE 2 WEEK revision plan to go from GRADE 3 to GRADE 9 in GCSE Computer Science</a>
             <a href="/cheatsheets/OCR GCSE Computer Science Revision Timetable.pdf" target="_blank" className='w-fit mx-auto' rel="noopener noreferrer">Two week timetable to get grade 9</a>
+            <a href="/OCRNotes/Live paper 1 topics notes.pdf" target="_blank" className='w-fit mx-auto text-xl my-10 font-bold text-pink-700 border px-10 border-red-500' rel="noopener noreferrer">PAPER 1 NOTES FROM YOUTUBE LIVE</a>
+
           </div>
 
 
